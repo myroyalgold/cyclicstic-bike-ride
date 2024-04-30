@@ -134,32 +134,7 @@ dim(bike_rides)
 -  get minimum and maximum date of rides
 
 # Data visualization
-#Member type
 
-
-
-This shows that most of the Cyclistic clients are annual members.
-     
-
-
-
-#bike used by different riders
-Member uses classic and electric bike most and none of the members uses docked bike while some casual riders uses docked bike."
-
-#Count of Bike rides by hour: Previous 12 months
-
-
-#calculate average ride length of member type in minutes
-average_ride_length <- bike_rides %>%
-  group_by(member_casual) %>%
-  summarize(average_length = mean(length_min))
-
-#Average Ride Length by Member Type",
-       The average ride time of Casual Clients is more compared to the Member Clients.
-       
-#Rider distribution by start day
-This shows that Member Clients use the Company’s service mostly on Thursday, whereas Casual clients engage with the service on Saturday.
-Member clients uses the engage with the cyclistic service most.",
 
 # Recommendation
 To accomplish the objective of converting casual riders into annual members, you can consider the following recommendations:
