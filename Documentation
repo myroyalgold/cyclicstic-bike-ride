@@ -134,6 +134,23 @@ dim(bike_rides)
 -  get minimum and maximum date of rides
 
 # Data visualization
+![member_type](https://github.com/myroyalgold/cyclicstic-bike-ride/assets/107118603/6ba69ad3-a895-4fc0-9c46-809493051b9e)
+This shows that most of the clients are members.
+
+![average_ride_length](https://github.com/myroyalgold/cyclicstic-bike-ride/assets/107118603/8282d0e7-5759-4293-86cd-8e1cb13676ef)
+The average ride time of Casual Clients is more compared to the Member Clients.
+
+
+![rideable_type](https://github.com/myroyalgold/cyclicstic-bike-ride/assets/107118603/134ac1cd-f75d-46d1-a50e-190b7c0d9583)
+Member uses classic and electric bike most and none of the members uses docked bike while some casual riders uses docked bike.
+
+
+![ridecounts](https://github.com/myroyalgold/cyclicstic-bike-ride/assets/107118603/28b89533-d31c-4a82-b371-9def8d09b19c)
+
+
+![rider_distribution_byday](https://github.com/myroyalgold/cyclicstic-bike-ride/assets/107118603/3e24ec9a-21e6-4061-9f38-b1fa42b6452f)
+This shows that Member Clients use the Company’s service mostly on Thursday, whereas Casual clients engage with the service on Saturday.
+Also, Member clients uses the engage with the cyclistic service most.
 
 
 # Recommendation
